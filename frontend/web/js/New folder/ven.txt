@@ -1,0 +1,1 @@
+$('#map').vectorMap({map: 've_merc'});
